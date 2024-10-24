@@ -66,7 +66,7 @@ catkin_create_pkg robot_description
 **3. Clone the Repository:**
 
 ```bash
-git clone https://github.com/starAwesome123/robot_description
+git clone https://github.com/starAwesome123/robot_description.git
 ```
 **4. Build the project:**
 
